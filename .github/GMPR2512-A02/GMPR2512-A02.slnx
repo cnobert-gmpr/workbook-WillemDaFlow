@@ -1,3 +1,7 @@
 ﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="GMPR2512.Lesson05DeathzoneAndRespawn.csproj" />
+  <Project Path="Lesson06Pinball.csproj" />
   <Project Path="GMPR2512.Lesson1.csproj" />
+  <Project Path="GMPR2512.Lesson04Scripting01.csproj" />
 </Solution>
