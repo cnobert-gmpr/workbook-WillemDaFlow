@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="Start Game" name="ChangeToScene01Button" style="position: absolute; height: 180px; width: 248px; top: 45px; left: 45px; right: 45px; background-color: rgb(182, 72, 158); -unity-font-definition: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=7d5db5b793a821a4dbf27afa82720311&amp;type=3#NotInter-Regular&quot;); font-size: 26px; color: rgb(240, 240, 240);"/>
+</ui:UXML>

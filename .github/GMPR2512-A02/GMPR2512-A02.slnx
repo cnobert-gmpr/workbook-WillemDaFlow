@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CFXRRuntime.csproj" />
+  <Project Path="CFXRDemo.csproj" />
+  <Project Path="CFXREditor.csproj" />
+  <Project Path="GMPR2512.Lesson05DeathzoneAndRespawn.csproj" />
+  <Project Path="Lesson06Pinball.csproj" />
+  <Project Path="GMPR2512.Lesson1.csproj" />
+  <Project Path="KinoBloom.Runtime.csproj" />
+  <Project Path="GMPR2512.Lesson07TransformAndInput.csproj" />
+  <Project Path="CFXR.WelcomeScreen.csproj" />
+  <Project Path="ToonyColorsPro.Demo.Editor.csproj" />
+  <Project Path="GMPR2512.Lesson04Scripting01.csproj" />
+  <Project Path="GMPR2512.Lesson08ScenesAndUI.csproj" />
+</Solution>
