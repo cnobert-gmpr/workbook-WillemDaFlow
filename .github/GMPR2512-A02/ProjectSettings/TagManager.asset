@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ball
+  - Projectile
+  - Alien
+  - Aliens
+  - Ship
+  - ShipProjectile
+  - AlienProjectile
+  - Blocker
+  - Wall
   layers:
   - Default
   - TransparentFX
